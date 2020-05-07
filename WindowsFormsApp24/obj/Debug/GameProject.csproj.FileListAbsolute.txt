@@ -1,0 +1,10 @@
+C:\Users\ource\Desktop\GameProject\WindowsFormsApp24\bin\Debug\WindowsFormsApp24.exe.config
+C:\Users\ource\Desktop\GameProject\WindowsFormsApp24\bin\Debug\WindowsFormsApp24.exe
+C:\Users\ource\Desktop\GameProject\WindowsFormsApp24\bin\Debug\WindowsFormsApp24.pdb
+C:\Users\ource\Desktop\GameProject\WindowsFormsApp24\obj\Debug\GameProject.csprojAssemblyReference.cache
+C:\Users\ource\Desktop\GameProject\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.Form1.resources
+C:\Users\ource\Desktop\GameProject\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.Properties.Resources.resources
+C:\Users\ource\Desktop\GameProject\WindowsFormsApp24\obj\Debug\GameProject.csproj.GenerateResource.cache
+C:\Users\ource\Desktop\GameProject\WindowsFormsApp24\obj\Debug\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\ource\Desktop\GameProject\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.exe
+C:\Users\ource\Desktop\GameProject\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.pdb
